@@ -34,7 +34,7 @@ From high-speed numerical operations with NumPy to intuitive data structuring wi
 
 ---
 
-##  viewing the Presentation
+##  Viewing the Presentation
 
 To view the presentation, you can:
 
